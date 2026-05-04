@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
-  <a href="https://github.com/muhammed-navas-mt" target="_blank">
+  <a href="https://github.com/Muhammed-navas-MT" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -60,13 +60,13 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammed-navas-mt&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammed-navas-MT&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammed-navas-mt&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammed-navas-MT&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed-navas-mt&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammed-navas-MT&theme=dark" alt="GitHub Streak" />
 </p>
