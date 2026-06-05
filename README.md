@@ -16,7 +16,6 @@
 
 I'm a **Full Stack Developer** with hands-on experience across the entire web development lifecycle — from architecting robust **backend systems** to crafting seamless **user experiences**. I specialize in **MERN Stack**, **Next.js**, **ERP solutions**, and **Elasticsearch-powered** applications.
 
-- 🔭 Currently working on **enterprise-grade ERP systems** and **production-ready web platforms**
 - 🌱 Deepening expertise in **Next.js**, **Elasticsearch**, and **scalable system design**
 - 💡 Passionate about **clean architecture**, **performance optimization**, and **developer experience**
 - 🎯 Focused on building products that are **fast**, **accessible**, and **maintainable**
