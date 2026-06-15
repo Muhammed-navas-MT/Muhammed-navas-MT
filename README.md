@@ -30,6 +30,12 @@ I'm a **Full Stack Developer** with hands-on experience across the entire web de
   <a href="mailto:muhammednavas382@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+   <a href="https://navasmt.vercel.app" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Mohammed%20Navas%20MT-000000?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Mohammed Navas MT Portfolio"
+  />
+</a>
   &nbsp;
   <a href="https://github.com/Muhammed-navas-MT" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
