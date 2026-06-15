@@ -32,8 +32,8 @@ I'm a **Full Stack Developer** with hands-on experience across the entire web de
   </a>
    <a href="https://navasmt.vercel.app" target="_blank">
   <img
-    src="https://img.shields.io/badge/Mohammed%20Navas%20MT-000000?style=for-the-badge&logo=googlechrome&logoColor=white"
-    alt="Mohammed Navas MT Portfolio"
+    src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Portfolio"
   />
 </a>
   &nbsp;
