@@ -131,22 +131,6 @@ I'm a **Full Stack Developer** with hands-on experience across the entire web de
 
 ---
 
-## 🧠 Skill Proficiency
-
-```
-Frontend (React, Next.js, TypeScript)   ████████████████████  Expert
-Backend (Node.js, Express.js)           ████████████████████  Expert
-Databases (MongoDB, MySQL, Redis)       ██████████████████░░  Advanced
-Elasticsearch                           █████████████████░░░  Advanced
-ERP Systems Development                 ████████████████████  Expert
-Cloudinary & Media Management           ████████████████░░░░  Advanced
-Docker & DevOps                         ████████████████░░░░  Advanced
-AWS & Cloud Services                    ███████████████░░░░░  Intermediate
-System Design & Architecture            ████████████████████  Expert
-```
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
