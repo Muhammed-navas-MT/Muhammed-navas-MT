@@ -48,16 +48,6 @@ I'm a **Full Stack Developer** with hands-on experience across the entire web de
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=muhammed-navas-mt&theme=algolia&no-frame=true&margin-w=10&column=7" alt="muhammed-navas-mt" />
-  </a>
-</p>
-
----
-
 ## 🛠️ Tech Stack & Expertise
 
 ### 🌐 Frontend Development
@@ -120,14 +110,6 @@ I'm a **Full Stack Developer** with hands-on experience across the entire web de
 - ✅ **Online Payment Integration** — secure in-app payment gateway for subscriptions and purchases
 - ✅ **Chat System** — real-time messaging between trainers and members
 - ✅ **Multi-Brand Support** — manage multiple gym branches/brands from a single platform dashboard
-
-### 🔍 Elasticsearch Integration
-> Implemented **Elasticsearch** for high-performance full-text search, log aggregation, and analytics across large-scale data sets.
-
-- ✅ Full-text and fuzzy search with custom analyzers
-- ✅ Index mapping, query optimization, and aggregation pipelines
-- ✅ Real-time log monitoring and alerting
-- ✅ Integration with Node.js / Express backends
 
 ---
 
